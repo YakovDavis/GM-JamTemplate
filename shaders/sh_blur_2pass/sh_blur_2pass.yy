@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_blur_2pass",
+  "name":"sh_blur_2pass",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
